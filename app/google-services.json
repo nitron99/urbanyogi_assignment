@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571803988196",
+    "project_id": "urbanyogi-assignment",
+    "storage_bucket": "urbanyogi-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571803988196:android:d7dd66ac6a1ce878e7fcf1",
+        "android_client_info": {
+          "package_name": "com.example.urbanyogi_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571803988196-r1gif3vqoafj1s9m5qu9b9k8dauhfmap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPNxkIeAl2mEhOviSxFWTkrKIP5UJJ4TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571803988196-r1gif3vqoafj1s9m5qu9b9k8dauhfmap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
